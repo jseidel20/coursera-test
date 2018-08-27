@@ -17,20 +17,19 @@ h1 {
   padding: 10px 0 10px 0;
   margin-top: 0;
 }
-
-h5{
-  position: relative;
-  top: 50px;
-  right: 50px;
+.description {
+  padding: 45px 10px 5px 10px;
 }
 div.section{
   background: gray;
   border: 1px solid black; 
   position: relative;
+  margin: 10px;
 }
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
+  padding: 0 10px 0 10px;
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {
