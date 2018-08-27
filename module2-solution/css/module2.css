@@ -1,12 +1,13 @@
-<style>
 /********** Base styles **********/
 * {
   box-sizing: border-box;
 }
+
 h1 {
   margin-bottom: 15px;
   text-align: center;
 }
+
 .title {
   border: 1px solid black;
   font-weight: bold;
@@ -17,15 +18,18 @@ h1 {
   padding: 10px 0 10px 0;
   margin-top: 0;
 }
+
 .description {
   padding: 45px 10px 5px 10px;
 }
+
 div.section{
   background: gray;
   border: 1px solid black; 
   position: relative;
   margin: 10px;
 }
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
@@ -157,4 +161,3 @@ div.section{
     width: 100%;
   }
 }
-</style>
