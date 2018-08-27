@@ -146,9 +146,8 @@ p {
     width: 100%;
   }
 }
-section{
+div#container{
+  background-color: #00FFFF;
   position: relative;
-  top: 50px;
-  right: 50px;
 }
 </style>
