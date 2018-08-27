@@ -37,15 +37,15 @@ div.section{
 }
 
 #chicken{
-  background: yellow;
+  background: pink;
 }
 
 #beef{
-  background: brown;
+  background: red;
 }
 
 #sushi{
-  background: red;
+  background: tan;
 }
 
 /********** Large devices only **********/
