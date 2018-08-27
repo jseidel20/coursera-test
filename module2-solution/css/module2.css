@@ -3,6 +3,10 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: Algerian;
+}
+
 h1 {
   margin-bottom: 15px;
   text-align: center;
