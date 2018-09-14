@@ -32,18 +32,19 @@ body {
   text-shadow: 1px 1px 1px #222;
   margin-top: 0;
   margin-bottom: 0;
+  margin-left: -30;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-.navbar-brand p { /* Kosher cert */
+.navbar-brand p { 
   color: #000;
   text-transform: uppercase;
   font-size: .7em;
   margin-top: 15px;
 }
-.navbar-brand p span { /* Star-K */
+.navbar-brand p span { 
   vertical-align: middle;
 }
 
